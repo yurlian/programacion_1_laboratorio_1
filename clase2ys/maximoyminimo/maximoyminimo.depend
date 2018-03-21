@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521593561 source:d:\clase2ys\maximoyminimo\main.c
+	<stdio.h>
+	<limits.h>
+
